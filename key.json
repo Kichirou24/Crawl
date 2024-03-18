@@ -1,4 +1,4 @@
 {
-    "csrftoken" : "",
-    "sessionid" : ""
-}
+    "csfrtoken": "your_csfrtoken",
+    "sessionid": "your_sessionid"
+ }
