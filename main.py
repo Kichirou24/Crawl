@@ -2,7 +2,6 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-# get input from keyboard
 contest = int(input("Enter contest (0: Newbie, 1: Expert): "));
 Url = int(input("Enter url (0: C++ FULL, 1: C++ AC): "));
 
